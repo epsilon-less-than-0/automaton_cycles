@@ -1,1 +1,1 @@
-# automaton_cycles
+# learning-cycles
